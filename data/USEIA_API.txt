@@ -1,0 +1,5 @@
+The following is your unique EIA API key to use with the EIA API.
+
+e7506c3151d440e7148fa660e972f497
+
+For documentation on using this key with the EIA API visit, www.eia.gov/developer.
